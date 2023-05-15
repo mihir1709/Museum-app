@@ -1,0 +1,7 @@
+{
+  "name": "digi_mu",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}

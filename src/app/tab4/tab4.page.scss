@@ -1,0 +1,39 @@
+h1{
+    font-size: 30px;
+    text-align: center;
+    font-style: italic;
+    color: #e47a7aaa;
+    font-weight: bold;
+    font-family: monospace;
+    margin: 0 0 10px 0;
+}
+
+  ion-title {
+    text-align: center;
+  }
+  
+  ion-input,
+  ion-select,
+  ion-textarea {
+    margin-bottom: 10px;
+  }
+  
+  ion-item ion-label {
+    font-weight: bold;
+  }
+  
+  ion-item ion-select {
+    padding: 0;
+  }
+  
+  ion-item ion-select::part(text) {
+    padding: 10px;
+  }
+  
+  ion-button {
+    margin-top: 10px;
+  }
+  
+  div.ion-text-center {
+    margin-top: 20px;
+  }
